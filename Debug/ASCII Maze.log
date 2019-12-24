@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\bisho\Desktop\Programming\C++\ASCII Maze\Source.cpp(19,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bisho\Desktop\Programming\C++\ASCII Maze\Source.cpp(122,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bisho\Desktop\Programming\C++\ASCII Maze\Source.cpp(129,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bisho\Desktop\Programming\C++\ASCII Maze\Source.cpp(138,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ASCII Maze.vcxproj -> C:\Users\bisho\Desktop\Programming\C++\ASCII Maze\Debug\ASCII Maze.exe
